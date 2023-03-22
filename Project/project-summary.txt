@@ -1,0 +1,1 @@
+Cost managment java application. The app is built around the MVVM design pattern, utilizing thread pools and addressing Swing's event-dispatching thread. The data is stored in MySQL Database.
